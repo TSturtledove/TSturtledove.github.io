@@ -10,8 +10,13 @@ h1 {
   background-color: linear-gradient(45deg, #ff8000 10%, #ffccff);
 }
 
-
+.headimg {
+  display: flex;
+  justify-content: space-between;
+}
 .mainimage {
+  /*display: flex;*/
+  align-self: flex-end;
   width: 250px;
 }
 
