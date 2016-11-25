@@ -7,10 +7,19 @@ body {
 }
 
 h1 {
-  color: red;
+  background-color: linear-gradient(45deg, #ff8000 10%, #ffccff);
 }
 
 
-.header-image {
+.mainimage {
   width: 250px;
+}
+
+.linkspec:hover {
+  color: #00b36b;
+  text-decoration: none;
+}
+
+.maindiv {
+  background-color: #ccf2ff;
 }
