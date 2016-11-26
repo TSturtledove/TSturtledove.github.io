@@ -28,3 +28,7 @@ h1 {
 .maindiv {
   background-color: #ccf2ff;
 }
+
+ul {
+  list-style: none;
+}
